@@ -1,4 +1,6 @@
 source/__pycache__
 source/*.txt
+source/*.exe
 .vscode/
 *.txt
+.venv/
